@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sakinah Al'izzah Binti Mohd Asri</h1>
-<h3 align="center">3rd Year Data Engineering Student at UTM</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lDS9t1N7Y6yFq/giphy.gif" width="100"/>
+</div>
+<h1 align="center">I'm Sakinah Al'izzah Binti Mohd Asri</h1>
+<h3 align="center">Data Engineering Student at UTM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakinahalizzah&label=Profile%20views&color=0e75b6&style=flat" alt="sakinahalizzah" /> </p>
 
-- 🔭 I’m currently working on **application development**
-
+- 📅 15th July 2001
 - 🌱 I’m currently learning **MongoDB**
-
+- 🔭 I’m currently working on **application development**
 - 🌟 I’m experience in **big data,system development,Alteryx,Tableau,Power BI**
-
 - 📫 How to reach me **sakinahalizzah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
