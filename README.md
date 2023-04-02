@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning **MongoDB**
 - 🔭 I’m currently working on **application development**
 - 🌟 I’m experience in **big data,system development,Alteryx,Tableau,Power BI**
-- 📧 How to reach me <a href="mailto:sakinahalizzah@gmail.com"><img src="https://img.shields.io/badge/sakinahalizzah@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
-- 📫 Connect with me   [![Linkedin Badge](https://img.shields.io/badge/-sakinahalizzah-blue?style=flat&logo=Linkedin&logoColor=white)](https://my.linkedin.com/in/sakinah-al-izzah-mohd-asri-414329202)
+- 📧 How to reach me   <a href="mailto:sakinahalizzah@gmail.com"><img src="https://img.shields.io/badge/sakinahalizzah@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
 <h3 align="left">Projects:</h3>
 - 💸 [Malaysia Dataset EDA: Foreign Direct Investment In Malaysia](https://github.com/peiyu00/Python_EDA/tree/main/Malaysia%20EDA/Haha)
