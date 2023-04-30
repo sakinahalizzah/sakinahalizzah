@@ -17,10 +17,15 @@
 <h3 align="left">Projects:</h3>
 
 🌡 [Malaysia Dataset EDA: Malaysia Air Pollution Analysis](https://github.com/sakinahalizzah/Python_EDA/tree/main/Malaysia%20EDA/Lab)
+
 💳 [Python Big Data EDA: Fraudulent Transaction Prediction Analysis](https://github.com/sakinahalizzah/Python-big-data/tree/main/Assignment%201/Lab)
+
 🏥 [Python Koalas Package On Health Insurance Marketplace Dataset](https://github.com/sakinahalizzah/Python-big-data/tree/main/Assignment%202a/High%20Five)
+
 🚑 [Koalas Vs Pandas Library on Health Insurance Marketplace Dataset](https://github.com/sakinahalizzah/Python-big-data/tree/main/Assignment%202b/High%20Five)
+
 🛫 [Project: Airline Delay and Cancellation Dataset Analysis from 2015-2016](https://github.com/sakinahalizzah/Python-big-data/tree/main/Project/High%20Five)
+
 💻 [Web Scraping website with Beautiful Soup](https://github.com/sakinahalizzah/python-web/tree/main/beautiful-soup/High%20Five)
 
 <h3 align="left">Languages and Tools:</h3>
