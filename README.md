@@ -9,9 +9,8 @@
 <h3 align="left">About me:</h3>
 
 - 📅 15th July 2001
-- 🌱 I’m currently learning **MongoDB,Django**
-- 🔭 I’m currently working on **application development**
-- 🌟 I’m experience in **big data,system development,Alteryx,Tableau,Power BI**
+- 🔭 I’m currently working on **application testing**
+- 🌟 I’m experience in **big data,system development,Business Intelligence, Alteryx,Tableau,Power BI**
 - 📧 How to reach me   <a href="mailto:sakinahalizzah@gmail.com"><img src="https://img.shields.io/badge/sakinahalizzah@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
 <h3 align="left">Projects:</h3>
