@@ -14,7 +14,7 @@
 - 📧 How to reach me   <a href="mailto:sakinahalizzah@gmail.com"><img src="https://img.shields.io/badge/sakinahalizzah@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
 <h3 align="left">Projects:</h3>
-🌡 [Malaysia's Food Inflation Dashboard](https://sakinahalizzah.github.io/Food-Inflation-in-Malaysia/food_inflation_dashboard.html)
+🥩 [Malaysia's Food Inflation Dashboard](https://sakinahalizzah.github.io/Food-Inflation-in-Malaysia/food_inflation_dashboard.html)
 
 🌡 [Malaysia Dataset EDA: Malaysia Air Pollution Analysis](https://github.com/sakinahalizzah/Python_EDA/tree/main/Malaysia%20EDA/Lab)
 
