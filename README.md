@@ -2,18 +2,19 @@
   <img src="https://media.giphy.com/media/lDS9t1N7Y6yFq/giphy.gif" width="100"/>
 </div>
 <h1 align="center">I'm Sakinah Al'izzah Binti Mohd Asri</h1>
-<h3 align="center">Data Engineering Student at UTM</h3>
+<h3 align="center">Aspiring Data Scientist & Data Analytics Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakinahalizzah&label=Profile%20views&color=0e75b6&style=flat" alt="sakinahalizzah" /> </p>
 
 <h3 align="left">About me:</h3>
 
 - 📅 15th July 2001
-- 🔭 I’m currently working on **application testing**
+- 🔭 I’m currently working on **Advanced Analytics**
 - 🌟 I’m experience in **big data,system development,Business Intelligence, Alteryx,Tableau,Power BI**
 - 📧 How to reach me   <a href="mailto:sakinahalizzah@gmail.com"><img src="https://img.shields.io/badge/sakinahalizzah@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
 <h3 align="left">Projects:</h3>
+🌡 [Malaysia's Food Inflation Dashboard](https://sakinahalizzah.github.io/Food-Inflation-in-Malaysia/food_inflation_dashboard.html)
 
 🌡 [Malaysia Dataset EDA: Malaysia Air Pollution Analysis](https://github.com/sakinahalizzah/Python_EDA/tree/main/Malaysia%20EDA/Lab)
 
